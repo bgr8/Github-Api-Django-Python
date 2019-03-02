@@ -1,0 +1,5 @@
+github/__pycache__/*
+githubapi/__pycache__/*
+
+github/migrations/*
+!github/migrations/__init__.py
